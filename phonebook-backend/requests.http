@@ -24,8 +24,8 @@ POST http://localhost:3001/api/persons
 content-type: application/json
 
 {
-  "name": "islam",
-  "number":"077055555555"
+  "name": "Asmae",
+  "number":"07705555557"
 }
 
 ###
@@ -48,6 +48,6 @@ PUT http://localhost:3001/api/persons/63779c866d031540c476547b
 content-type: application/json
 
 {
-    "name": "islam",
-    "number": "123456"
+    "name": "islama",
+    "number": "123456444"
 }
